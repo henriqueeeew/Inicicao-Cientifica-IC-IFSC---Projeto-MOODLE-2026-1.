@@ -1,0 +1,11 @@
+<section class="ifsc-style ifsc-ebook accordion" style="padding-left: 40px;">
+  <details>
+    <summary
+      style="background-color: #1b67b0 !important; color: #ffffff !important; font-weight: bold !important; font-size: 1.25rem !important; text-align: center !important;">
+      Texto</summary>
+    <div class="accordion-content">
+      <p style="text-align: left; color: #000000 !important;">Texto base para a
+        visualização.</p>
+    </div>
+  </details>
+</section>
