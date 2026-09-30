@@ -1,0 +1,48 @@
+<p>BRANCO:</p>
+<ul>
+  <li style="list-style-type: none;">
+    <ul>
+      <li style="list-style-type: none;">
+        <ul
+          style="font-family: Poppins,sans-serif; list-style-type: circle; background-color: #ffffff; width: 90%; padding: 30px; padding-top: 15px; padding-bottom: 15px; margin-left: 42px; border: 5px solid #1B67B0; border-radius: 15px;">
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #000000;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: #000000;"><strong>Item
+                1: </strong> Texto</span></li>
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #000000;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: #000000;"><strong>Item
+                2: </strong> Texto</span></li>
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #000000;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: #000000;"><strong>Item
+                3: </strong> Texto</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>AZUL:</p>
+<ul>
+  <li style="list-style-type: none;">
+    <ul>
+      <li style="list-style-type: none;">
+        <ul
+          style="font-family: Poppins,sans-serif; list-style-type: circle; background-color: #1b67b0; width: 90%; padding: 30px; padding-top: 15px; padding-bottom: 15px; margin-left: 42px; border-radius: 15px;">
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #ffffff;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: bold;"><strong>Item
+                1: </strong>Texto</span></li>
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #ffffff;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: bold;"><strong>Item
+                2: </strong>Texto</span></li>
+          <li dir="ltr" style="font-family: Poppins,sans-serif; color: #ffffff;"
+            role="presentation"><span
+              style="font-family: Poppins,sans-serif; color: bold;"><strong>Item
+                3: </strong>Texto</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
