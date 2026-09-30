@@ -1,0 +1,69 @@
+<!-- Menu de Abas (Tabs) -->
+<div style="width: 100%;">
+  <ul class="nav nav-tabs"
+    style="margin: 0; background-color: #1b67b0; display: flex; list-style: none; border-radius: 15px 15px 0 0; padding-left: 0; border: none;"
+    role="tablist"><!-- Botão 1 -->
+    <li class="nav-item"
+      style="font-family: 'Poppins', sans-serif; margin: 0; flex: 1; text-align: center;"
+      role="presentation"><a id="tab1-tab" class="nav-link active"
+        style="color: white !important; display: block; padding: 14px 12px; text-decoration: none; font-weight: 500; border: none !important; margin: 0;"
+        role="tab" href="#tab1" data-toggle="tab" data-bs-toggle="tab"
+        aria-controls="tab1" aria-selected="true"> <strong>Texto 1</strong> </a>
+    </li>
+    <!-- Botão 2 -->
+    <li class="nav-item"
+      style="font-family: 'Poppins', sans-serif; margin: 0; flex: 1; text-align: center;"
+      role="presentation"><a id="tab2-tab" class="nav-link"
+        style="color: white !important; display: block; padding: 14px 12px; text-decoration: none; font-weight: 500; border: none !important; margin: 0;"
+        role="tab" href="#tab2" data-toggle="tab" data-bs-toggle="tab"
+        aria-controls="tab2" aria-selected="false"> <strong>Texto 2</strong>
+      </a></li>
+    <!-- Botão 3 -->
+    <li class="nav-item"
+      style="font-family: 'Poppins', sans-serif; margin: 0; flex: 1; text-align: center;"
+      role="presentation"><a id="tab3-tab" class="nav-link"
+        style="color: white !important; display: block; padding: 14px 12px; text-decoration: none; font-weight: 500; border: none !important; margin: 0;"
+        role="tab" href="#tab3" data-toggle="tab" data-bs-toggle="tab"
+        aria-controls="tab3" aria-selected="false"> <strong>Texto 3</strong>
+      </a></li>
+    <!-- Botão 4 -->
+    <li class="nav-item"
+      style="font-family: 'Poppins', sans-serif; margin: 0; flex: 1; text-align: center;"
+      role="presentation"><a id="tab4-tab" class="nav-link"
+        style="color: white !important; display: block; padding: 14px 12px; text-decoration: none; font-weight: 500; border: none !important; margin: 0;"
+        role="tab" href="#tab4" data-toggle="tab" data-bs-toggle="tab"
+        aria-controls="tab4" aria-selected="false"> <strong>Texto 4</strong>
+      </a></li>
+  </ul>
+</div>
+<!-- Conteúdo das Abas -->
+<div class="tab-content" style="margin-top: 0;">
+  <div id="tab1" class="tab-pane fade show active"
+    style="background-color: #ffffff; border-radius: 0 0 15px 15px; width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #1B67B0; border-top: none; margin: 0;"
+    role="tabpanel" aria-labelledby="tab1-tab">
+    <p
+      style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #000000; margin: 0;">
+      Texto para visualização 1.</p>
+  </div>
+  <div id="tab2" class="tab-pane fade"
+    style="background-color: #ffffff; border-radius: 0 0 15px 15px; width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #1B67B0; border-top: none; margin: 0;"
+    role="tabpanel" aria-labelledby="tab2-tab">
+    <p
+      style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #000000; margin: 0;">
+      Texto para visualização 2.</p>
+  </div>
+  <div id="tab3" class="tab-pane fade"
+    style="background-color: #ffffff; border-radius: 0 0 15px 15px; width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #1B67B0; border-top: none; margin: 0;"
+    role="tabpanel" aria-labelledby="tab3-tab">
+    <p
+      style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #000000; margin: 0;">
+      Texto para visualização 3.</p>
+  </div>
+  <div id="tab4" class="tab-pane fade"
+    style="background-color: #ffffff; border-radius: 0 0 15px 15px; width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #1B67B0; border-top: none; margin: 0;"
+    role="tabpanel" aria-labelledby="tab4-tab">
+    <p
+      style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #000000; margin: 0;">
+      Texto para visualização 4.</p>
+  </div>
+</div>
