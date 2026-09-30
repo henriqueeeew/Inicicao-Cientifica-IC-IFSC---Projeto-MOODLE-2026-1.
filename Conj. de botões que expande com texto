@@ -1,0 +1,33 @@
+<div>
+  <details
+    style="font-size: 12pt; display: inline-block; vertical-align: top; margin-right: 15px; margin-bottom: 15px; font-family: Poppins,sans-serif; max-width: 300px;">
+    <summary
+      style="font-size: 12pt; display: inline-block; padding: 10px 20px; background-color: #1b67b0; color: white; border-radius: 5px; cursor: pointer; user-select: none; font-weight: bold;">
+      <strong>Indústria e Aeroespacial</strong></summary>
+    <p
+      style="font-size: 12pt; margin-top: 8px; padding: 15px; background-color: #ffffff; border-left: 4px solid #1B67B0; color: #333333;">
+      É usada para criar peças mais leves, ferramentas, gabaritos e componentes
+      feitos sob medida.</p>
+  </details>
+  <details
+    style="font-size: 12pt; display: inline-block; vertical-align: top; margin-right: 15px; margin-bottom: 15px; font-family: Poppins,sans-serif; max-width: 300px;">
+    <summary
+      style="font-size: 12pt; display: inline-block; padding: 10px 20px; background-color: #1b67b0; color: white; border-radius: 5px; cursor: pointer; user-select: none; font-weight: bold;">
+      <strong>Saúde e Odontologia</strong></summary>
+    <p
+      style="font-size: 12pt; margin-top: 8px; padding: 15px; background-color: #ffffff; border-left: 4px solid #1B67B0; color: #333333;">
+      Ajuda na produção de próteses personalizadas, guias para cirurgias e
+      alinhadores ortodônticos.</p>
+  </details>
+  <details
+    style="font-size: 12pt; display: inline-block; vertical-align: top; margin-right: 15px; margin-bottom: 15px; font-family: Poppins,sans-serif; max-width: 300px;">
+    <summary
+      style="font-size: 12pt; display: inline-block; padding: 10px 20px; background-color: #1b67b0; color: white; border-radius: 5px; cursor: pointer; user-select: none; font-weight: bold;">
+      <strong>Prototipagem Rápida</strong></summary>
+    <p
+      style="font-size: 12pt; margin-top: 8px; padding: 15px; background-color: #ffffff; border-left: 4px solid #1B67B0; color: #333333;">
+      Com a impressão 3D, uma ideia pode ser testada na prática antes de virar
+      um produto. O protótipo ajuda a encontrar problemas e fazer melhorias no
+      projeto.</p>
+  </details>
+</div>
