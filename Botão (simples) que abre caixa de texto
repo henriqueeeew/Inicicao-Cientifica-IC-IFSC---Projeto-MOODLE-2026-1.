@@ -1,0 +1,11 @@
+<div style="padding: 8px;">
+  <details
+    style="font-size: 12pt; display: inline-block; vertical-align: top; margin-right: 15px; margin-bottom: 15px; font-family: Poppins,sans-serif; max-width: 300px;">
+    <summary
+      style="text-align: center; font-size: 12pt; display: inline-block; padding: 10px 20px; background-color: #ffffff; color: #000000; border: 2px solid #1B67B0; border-radius: 5px; cursor: pointer; user-select: none; font-weight: bold;">
+      <strong>Texto</strong></summary>
+    <p
+      style="text-align: center; font-size: 12pt; margin-top: 2px; padding: 15px; background-color: #1b67b0; color: #ffffff; border-radius: 5px;">
+      Texto base para a visualização.</p>
+  </details>
+</div>
