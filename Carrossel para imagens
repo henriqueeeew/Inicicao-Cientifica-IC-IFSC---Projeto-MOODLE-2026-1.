@@ -1,0 +1,82 @@
+<!-- Container do Carrossel (Altura totalmente dinâmica) -->
+<div id="meuCarrosselMoodle" class="carousel slide"
+  style="max-width: 600px; margin: 20px auto; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.15); position: relative; background-color: #ffffff;"
+  data-ride="carousel"><!-- Indicadores (Três traços na parte inferior) -->
+  <ol class="carousel-indicators" style="margin: 0; bottom: 8px; z-index: 10;">
+    <li class="active"
+      style="background-color: #1b67b0; width: 30px; height: 4px;"
+      data-target="#meuCarrosselMoodle" data-slide-to="0"> </li>
+    <li style="background-color: #1b67b0; width: 30px; height: 4px;"
+      data-target="#meuCarrosselMoodle" data-slide-to="1"> </li>
+    <li style="background-color: #1b67b0; width: 30px; height: 4px;"
+      data-target="#meuCarrosselMoodle" data-slide-to="2"> </li>
+  </ol>
+  <!-- Slides do Carrossel -->
+  <div class="carousel-inner"><!-- Slide 1 -->
+    <div class="carousel-item active" style="text-align: center;">
+      <!-- Barra Azul Superior -->
+      <div
+        style="background-color: #1b67b0; padding: 12px 15px; text-align: center;">
+        <h5
+          style="color: #ffffff; margin: 0 0 3px 0; font-size: 18pt; font-weight: bold;">
+          Título do Slide 1</h5>
+        <h6
+          style="color: #ffffff; margin: 0 0 3px; font-size: 12pt; font-weight: normal;">
+          DESCRIÇÃO CURTA OU INSTRUÇÃO PARA O ALUNO NESTE ESPAÇO.</h6>
+      </div>
+      <!-- Container da Imagem (padding superior de 20px e inferior de 40px) -->
+      <div
+        style="padding: 20px 15px 40px 15px; display: flex; justify-content: center; align-items: center;">
+        <img class="img-fluid"
+          style="max-height: 350px; height: auto; width: auto; object-fit: contain;"
+          src="https://moodle.ifsc.edu.br/draftfile.php/77813/user/draft/966202414/IFSC_logo_vertical%20%281%29.png"
+          alt="Logo IFSC"></div>
+    </div>
+    <!-- Slide 2 -->
+    <div class="carousel-item" style="text-align: center;">
+      <div
+        style="background-color: #1b67b0; padding: 12px 15px; text-align: center;">
+        <h5
+          style="color: #ffffff; margin: 0 0 3px 0; font-size: 18pt; font-weight: bold;">
+          Título do Slide 2</h5>
+        <h6
+          style="color: #ffffff; margin: 0 0 3px; font-size: 12pt; font-weight: normal;">
+          Você também pode usar o carrossel para expor infográficos por etapas.
+        </h6>
+      </div>
+      <div
+        style="padding: 20px 15px 40px 15px; display: flex; justify-content: center; align-items: center;">
+        <img class="img-fluid"
+          style="max-height: 350px; height: auto; width: auto; object-fit: contain;"
+          src="https://moodle.ifsc.edu.br/draftfile.php/77813/user/draft/966202414/IFSC_logo_vertical%20%281%29.png"
+          alt="Segundo Slide"></div>
+    </div>
+    <!-- Slide 3 -->
+    <div class="carousel-item" style="text-align: center;">
+      <div
+        style="background-color: #1b67b0; padding: 12px 15px; text-align: center;">
+        <h5
+          style="color: #ffffff; margin: 0 0 3px 0; font-size: 18pt; font-weight: bold;">
+          Título do Slide 3</h5>
+        <h6
+          style="color: #ffffff; margin: 0 0 3px; font-size: 12pt font-weight: normal;">
+          Finalize o conteúdo ou insira um fechamento de ideias.</h6>
+      </div>
+      <div
+        style="padding: 20px 15px 40px 15px; display: flex; justify-content: center; align-items: center;">
+        <img class="img-fluid"
+          style="max-height: 350px; height: auto; width: auto; object-fit: contain;"
+          src="https://moodle.ifsc.edu.br/draftfile.php/77813/user/draft/966202414/IFSC_logo_vertical%20%281%29.png"
+          alt="Terceiro Slide"></div>
+    </div>
+  </div>
+  <!-- Controles (Setas Direita e Esquerda) --> <a class="carousel-control-prev"
+    style="width: 10%; opacity: 1; text-decoration: none; z-index: 11;"
+    role="button" href="#meuCarrosselMoodle" data-slide="prev"> <span
+      style="color: #1b67b0; font-size: 20px; font-weight: bold; background-color: rgba(27, 103, 176, 0.12); border-radius: 50%; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center;">❮</span>
+    <span class="sr-only">Anterior</span> </a> <a class="carousel-control-next"
+    style="width: 10%; opacity: 1; text-decoration: none; z-index: 11;"
+    role="button" href="#meuCarrosselMoodle" data-slide="next"> <span
+      style="color: #1b67b0; font-size: 20px; font-weight: bold; background-color: rgba(27, 103, 176, 0.12); border-radius: 50%; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center;">❯</span>
+    <span class="sr-only">Próximo</span> </a>
+</div>
